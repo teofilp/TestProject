@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package >
+  <metadata>
+    <id>teo.testProject</id>
+    <version>1.0.0</version>
+    <authors>teoadmin</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="expression">MIT</license>
+  </metadata>
+</package>
