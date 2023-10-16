@@ -1,9 +1,0 @@
-/Volumes/Data/dotnet/testProject/TestProject/obj/Debug/netstandard2.1/TestProject.GeneratedMSBuildEditorConfig.editorconfig
-/Volumes/Data/dotnet/testProject/TestProject/obj/Debug/netstandard2.1/TestProject.AssemblyInfoInputs.cache
-/Volumes/Data/dotnet/testProject/TestProject/obj/Debug/netstandard2.1/TestProject.AssemblyInfo.cs
-/Volumes/Data/dotnet/testProject/TestProject/obj/Debug/netstandard2.1/TestProject.csproj.CoreCompileInputs.cache
-/Volumes/Data/dotnet/testProject/TestProject/bin/Debug/netstandard2.1/TestProject.deps.json
-/Volumes/Data/dotnet/testProject/TestProject/bin/Debug/netstandard2.1/TestProject.dll
-/Volumes/Data/dotnet/testProject/TestProject/bin/Debug/netstandard2.1/TestProject.pdb
-/Volumes/Data/dotnet/testProject/TestProject/obj/Debug/netstandard2.1/TestProject.dll
-/Volumes/Data/dotnet/testProject/TestProject/obj/Debug/netstandard2.1/TestProject.pdb

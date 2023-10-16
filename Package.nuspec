@@ -2,8 +2,10 @@
 <package >
   <metadata>
     <id>teo.testProject</id>
-    <version>1.0.0</version>
-    <authors>teoadmin</authors>
+    <version>1.0.1</version>
+    <authors>teofilp</authors>
+    <description>test description</description>
+    <projectUrl>https://github.com/teofilp/TestProject</projectUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <license type="expression">MIT</license>
   </metadata>
